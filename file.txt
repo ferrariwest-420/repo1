@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 One more hello from master
-=======
 Hello world from feature
->>>>>>> dc409e6 (Создан file.txt в feature-ветке)
